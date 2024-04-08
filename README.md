@@ -100,8 +100,6 @@
         Identification 1001 2022 0021 0003 Deposit money 1000
         Deposit money to the card
         End the session
-        12
-
         Deposit money 1000
         Identification 1001 2022 0021 0001 PIN-code 5001
         Withdraw money 8500
@@ -121,8 +119,6 @@
         Take the money: 5000 * «количество купюр» rub., 2000 * «количество купюр»
         rub., 1000 * «количество купюр» rub., 500 * «количество купюр» rub., 100 * «количество купюр» rub.
         Сообщение баланса карты
-        13
-
         Card balance «сумма на карте»
         Сообщение завершения работы банкомата: Turn off the ATM
         Пример вывода
@@ -146,8 +142,6 @@
         Enter the PIN code
         Select the command
         Take the money: 5000 * 1 rub., 2000 * 1 rub., 1000 * 1 rub., 500 * 1 rub., 100 * 0
-        14
-
         rub.
         The amount: 500
         Card balance 7000 Ready to work Turn off the ATM
